@@ -1,10 +1,8 @@
-#Space Invaders (Survival Mode)
+# Space Invaders (Survival Mode)
 
-**
-Done as lab 15 of  
+*Done as lab 15 of  
 UT.6.01x Embedded Systems  
-Runs on LM4F120/TM4C123
-**
+Runs on LM4F120/TM4C123*
 
 ## Requirements
 1. Movement slide potentiometer - PE2/AIN1  
