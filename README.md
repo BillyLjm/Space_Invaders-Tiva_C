@@ -1,7 +1,7 @@
 # Space Invaders (Survival Mode)
 
 *Done as lab 15 of  
-UT.6.01x Embedded Systems  
+6.01x Embedded Systems  
 Runs on LM4F120/TM4C123*
 
 ## Requirements
@@ -16,7 +16,8 @@ Runs on LM4F120/TM4C123*
    Reset - PA7   
 
 
-## Links
+## Demo
+<a href="http://youtu.be/88ZHcAEK1Pw"><img src="./screenshot.jpg" alt="Space Invaders Demo" height="300px"></a>  
 - [YouTube Demo](http://youtu.be/88ZHcAEK1Pw)
 
 
